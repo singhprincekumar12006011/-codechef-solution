@@ -1,0 +1,31 @@
+Write a Java class called Person with instance variables name and age. Implement a parameterized constructor that accepts values for name and age and initializes the instance variables.
+Create an object of the Person class and display the name and age of the person.
+
+
+
+
+
+Create a class called Rectangle with instance variables length and width. Implement a parameterized constructor that accepts values for length and width and initializes the instance variables.
+Add a method called calculateArea() that calculates and returns the area of the rectangle. Create an object of the Rectangle class and display its area.
+
+
+
+
+
+Create a class called Student with instance variables name, rollNumber, and grade. Implement a parameterized constructor that accepts values for name, rollNumber, and grade and initializes 
+the instance variables. Create an array of Student objects, initialize them using the constructor, and display the details of all the students.
+
+
+
+
+
+Create a class called BankAccount with instance variables accountNumber, holderName, and balance. Implement a parameterized constructor that accepts values for accountNumber and holderName 
+and initializes the instance variables. Overload the constructor to include an additional parameter for balance and initialize it. Create an object of the BankAccount class and display the 
+account details.
+
+
+
+
+
+Create a class called Book with instance variables title, author, and year. Implement a parameterized constructor that accepts values for title, author, and year and initializes the instance
+variables. Create an array of Book objects and initialize them using the constructor. Display the details of all the books in the array.
