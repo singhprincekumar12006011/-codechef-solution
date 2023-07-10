@@ -1,31 +1,51 @@
-Write a Java class called Person with instance variables name and age. Implement a parameterized constructor that accepts values for name and age and initializes the instance variables.
+1)Write a Java class called Person with instance variables name and age. Implement a parameterized constructor that accepts values for name and age and initializes the instance variables.
 Create an object of the Person class and display the name and age of the person.
 
 
 
 
-
-Create a class called Rectangle with instance variables length and width. Implement a parameterized constructor that accepts values for length and width and initializes the instance variables.
+2)Create a class called Rectangle with instance variables length and width. Implement a parameterized constructor that accepts values for length and width and initializes the instance variables.
 Add a method called calculateArea() that calculates and returns the area of the rectangle. Create an object of the Rectangle class and display its area.
 
 
 
 
-
-Create a class called Student with instance variables name, rollNumber, and grade. Implement a parameterized constructor that accepts values for name, rollNumber, and grade and initializes 
-the instance variables. Create an array of Student objects, initialize them using the constructor, and display the details of all the students.
-
-
-
-
-
-Create a class called BankAccount with instance variables accountNumber, holderName, and balance. Implement a parameterized constructor that accepts values for accountNumber and holderName 
-and initializes the instance variables. Overload the constructor to include an additional parameter for balance and initialize it. Create an object of the BankAccount class and display the 
-account details.
+3)Create a class called Employee with instance variables name, employeeId, and salary. Implement a parameterized constructor that accepts values for name, employeeId, and salary and initializes 
+the instance variables. Create an array of Employee objects, initialize them using the constructor, and display the details of all the employees.
 
 
 
 
 
-Create a class called Book with instance variables title, author, and year. Implement a parameterized constructor that accepts values for title, author, and year and initializes the instance
-variables. Create an array of Book objects and initialize them using the constructor. Display the details of all the books in the array.
+4)Create a class called BankAccount with instance variables accountNumber, accountHolderName, and balance. Implement a parameterized constructor that accepts values for accountNumber and 
+accountHolderName and initializes the instance variables. Overload the constructor to include an additional parameter for balance and initialize it. Create an object of the BankAccount class
+and display the account details.
+
+
+
+
+
+5)Create a class called Book with instance variables title, author, and year. Implement a parameterized constructor that accepts values for title, author, and year and initializes the 
+instance variables. Create an array of Book objects and initialize them using the constructor. Display the details of all the books in the array.
+
+
+
+
+
+6)Create a class called Student with instance variables name, rollNumber, and grade. Implement a default constructor that initializes the instance variables with default values. Overload the 
+constructor to accept values for name, rollNumber, and grade and initialize the instance variables. Create an object of the Student class using both constructors and display the student details.
+
+
+
+
+
+7)Create a class called Car with instance variables brand, model, and year. Implement a parameterized constructor that accepts values for brand, model, and year and initializes the instance 
+variables. Implement a copy constructor that creates a new Car object by copying the values from an existing Car object. Create two Car objects using the parameterized constructor and the copy constructor, and display their details.
+
+
+
+
+
+8)Create a class called Person with instance variables name and age. Implement a parameterized constructor that accepts values for name and age and initializes the instance variables.
+Implement a static method called compareAges() that takes two Person objects as parameters and compares their ages. The method should return the name of the person with the greater 
+age. Create two Person objects, compare their ages using the compareAges() method, and display the result.
